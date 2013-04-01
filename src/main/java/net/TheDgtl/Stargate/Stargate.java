@@ -1,3 +1,4 @@
+//Forked by iTidez
 package net.TheDgtl.Stargate;
 
 import java.io.ByteArrayOutputStream;
