@@ -164,7 +164,7 @@ public class Stargate extends JavaPlugin {
 		this.migrate();
 		this.reloadGates();
 		
-		// Check to see if iConomy is loaded yet.
+		// Check to see if iConomy is loaded yet.s
 		if (iConomyHandler.setupeConomy(pm)) {
 			if (iConomyHandler.economy != null)
 				log.info("[Stargate] Vault v" + iConomyHandler.vault.getDescription().getVersion() + " found");
