@@ -38,7 +38,7 @@ destMemory: false
 ignoreEntrance: false
 handleVehicles: true
 sortLists: false
-protectEntrance: false
+protectEntrance: true
 signColor: BLACK
 useiconomy: false
 createcost: 0
